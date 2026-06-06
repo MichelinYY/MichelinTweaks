@@ -3,10 +3,10 @@ Label: MichelinTweaks
 Suite: stable
 Version: 1.0
 Codename: main
-Architectures: iphoneos-arm iphoneos-arm64
+Architectures: iphoneos-arm64
 Components: main
 Description: MichelinTweaks repo by Michelin
 MD5Sum:
- efd019b2a5e8b7d5a69475ddbe191709 1342 Packages
+ 727a3b61429f4164b177d01bda81b6e4 1844 Packages
 SHA256:
- f72ecc198f27c3a157ff6ce63843d3114c4a8a095944b1315a9240f4969b64d9 1342 Packages
+ 75f80dc64075757cdb087a78e93aa468a676b80c76e0fa17d6d193ca01cf087d 1844 Packages

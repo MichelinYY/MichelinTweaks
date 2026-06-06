@@ -1,40 +1,52 @@
 Package: com.michelin.gpsjoystick
+Name: GpsJoystick
 Version: 3.0
 Architecture: iphoneos-arm64
 Maintainer: Michelin
 Depends: mobilesubstrate
-Filename: ./pkg/com.ytterstad.gpsjoystick_3.0_iphoneos-arm64.deb
-Size: 24020
-MD5sum: 20b408d41c156e042bb9c57e00e32065
-SHA256: 53d53585744ce3c6ca7c942937e3be35efe0fed8ca3a1daf28e87d57c4e053d0
 Section: Tweaks
-Description: GPS Joystick — analog joystick, 6 speed presets, bookmarks, auto-walk
-Name: GpsJoystick
+Description: GPS location spoofer with analog joystick, 6 speed presets, bookmarks, auto-walk
+Size: 23950
+MD5sum: 131d217b196d82adebef99f80cb10d22
+SHA256: 7228d2f9fc6adce4d722ad72e21b78ff49671877646a5cea578a25efef8baf39
+Filename: pkg/com.michelin.gpsjoystick_3.0_iphoneos-arm64.deb
 
 Package: com.michelin.michelinnative
+Name: MichelinNative
 Version: 3.0.1
 Architecture: iphoneos-arm64
 Maintainer: Michelin
 Depends: mobilesubstrate
-Filename: ./pkg/com.ytterstad.michelinnative_3.0.1_iphoneos-arm64.deb
-Size: 24340
-MD5sum: 19253779449c8af5ed30ddbc6ae18bca
-SHA256: 29a466fe6f82d3cd1d179e7ea235cc171faddc9ace04cba33688a0b6b7b5b9c9
 Section: Tweaks
-Description: Michelin Menu — game overlay with filters, boost, and more
-Name: MichelinNative
+Description: Michelin Menu — advanced in-game overlay with boost, filters, zoom, and more
+Size: 24252
+MD5sum: 0fc4713623ed1b71df09300a4da0d992
+SHA256: 0414393e010177b58301168a26d3f3052de1c64640c6a8aa3994376cc21499cf
+Filename: pkg/com.michelin.michelinnative_3.0.1_iphoneos-arm64.deb
 
-Package: com.michelin.issbypass
-Version: 1.0-1+debug
+Package: com.michelin.michelinmenu
+Name: MichelinMenu
+Version: 2.0.0
 Architecture: iphoneos-arm64
 Maintainer: Michelin
-Author: Michelin
-Depends: firmware (>=15.0), mobilesubstrate | me.midnightchips.ellekit | libhooker-devel | substitute
-Filename: ./pkg/com.andreas.issbypass.deb
-Size: 6180
-MD5sum: a23d20db0f1e0d3b225da0c2d33822ff
-SHA256: b0ea8764352b2c50cc79bf85ca3eb558fe1e9fd654596a9cd02bc219a7cfb085
+Depends: mobilesubstrate
 Section: Tweaks
-Description: Bypasses jailbreak and debug detection
+Description: All-in-one tweak — zoom, boost, filters, expiry labels, bot/player hiding, live player counter, UI menu
+Size: 45696
+MD5sum: c3c31a02837e18d3313742fd36c4bfdb
+SHA256: 53e9a28b787ba5d81c0622a3aa5ef399ff114cb90712bde7a5297a07be049587
+Filename: pkg/com.michelin.michelinmenu_2.0.0_iphoneos-arm64.deb
+
+Package: com.michelin.issbypass
 Name: ISSBypass
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Michelin
+Depends: firmware (>=15.0), mobilesubstrate | me.midnightchips.ellekit | libhooker-devel | substitute
+Section: Tweaks
+Description: Bypasses IOSSecuritySuite jailbreak and debug detection
+Size: 6168
+MD5sum: 846b26aa9e0ea60d51e680208824ccb9
+SHA256: c894b93732938e3c871cf0f1800f2bad79d27facb207aaf0442737d5374fcc32
+Filename: pkg/com.michelin.issbypass_1.0_iphoneos-arm64.deb
 
