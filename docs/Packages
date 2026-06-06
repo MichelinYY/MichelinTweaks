@@ -1,0 +1,40 @@
+Package: com.michelin.gpsjoystick
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Michelin
+Depends: mobilesubstrate
+Filename: ./pkg/com.ytterstad.gpsjoystick_3.0_iphoneos-arm64.deb
+Size: 24020
+MD5sum: 20b408d41c156e042bb9c57e00e32065
+SHA256: 53d53585744ce3c6ca7c942937e3be35efe0fed8ca3a1daf28e87d57c4e053d0
+Section: Tweaks
+Description: GPS Joystick — analog joystick, 6 speed presets, bookmarks, auto-walk
+Name: GpsJoystick
+
+Package: com.michelin.michelinnative
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: Michelin
+Depends: mobilesubstrate
+Filename: ./pkg/com.ytterstad.michelinnative_3.0.1_iphoneos-arm64.deb
+Size: 24340
+MD5sum: 19253779449c8af5ed30ddbc6ae18bca
+SHA256: 29a466fe6f82d3cd1d179e7ea235cc171faddc9ace04cba33688a0b6b7b5b9c9
+Section: Tweaks
+Description: Michelin Menu — game overlay with filters, boost, and more
+Name: MichelinNative
+
+Package: com.michelin.issbypass
+Version: 1.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Michelin
+Author: Michelin
+Depends: firmware (>=15.0), mobilesubstrate | me.midnightchips.ellekit | libhooker-devel | substitute
+Filename: ./pkg/com.andreas.issbypass.deb
+Size: 6180
+MD5sum: a23d20db0f1e0d3b225da0c2d33822ff
+SHA256: b0ea8764352b2c50cc79bf85ca3eb558fe1e9fd654596a9cd02bc219a7cfb085
+Section: Tweaks
+Description: Bypasses jailbreak and debug detection
+Name: ISSBypass
+
