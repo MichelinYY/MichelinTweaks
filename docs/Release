@@ -2,11 +2,13 @@ Origin: MichelinTweaks
 Label: MichelinTweaks
 Suite: stable
 Version: 1.0
-Codename: main
+Codename: ios
 Architectures: iphoneos-arm64
 Components: main
-Description: MichelinTweaks repo by Michelin
+Description: Michelin Tweaks Repository
 MD5Sum:
- 6e1503e6d96c8e12c78f7bf4ee16e91d 2330 Packages
+ 8925bc172676fe023942675f813f973c 2713 Packages
 SHA256:
- e01c079e8ffa0a137764bf1c4bf34eb1c09c3307ae1edd88ed51e5c1a7f6ea47 2330 Packages
+ 8238666855408fd143224be373db3083c8d949544a20f0e123e1ecef0c21db14 2713 Packages
+SHA512:
+ 3b33ae43f864c2fd5e12467418287f554c2556a9d088c4f96615fd7cb1b5acd9e8e2121a2a53e2f95cbe8dc0614f14a38074a87932f0c772d4645e3921d9ba65 2713 Packages

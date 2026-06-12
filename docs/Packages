@@ -63,3 +63,15 @@ MD5sum: 846b26aa9e0ea60d51e680208824ccb9
 SHA256: c894b93732938e3c871cf0f1800f2bad79d27facb207aaf0442737d5374fcc32
 Filename: pkg/com.michelin.issbypass_1.0_iphoneos-arm64.deb
 
+Package: com.michelin.sslbypass
+Name: SSLBypass
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Michelin
+Depends: mobilesubstrate
+Section: Tweaks
+Description: Bypasses SSL pinning in apps
+Size: 5072
+MD5sum: 04b0ba62a30ac2457a7b54287de9d673
+SHA256: c467d0632a9847695c360a06f988831ee9ed6249aaeb7a925e270f20fcd769a0
+Filename: pkg/com.michelin.sslbypass_1.0.1_iphoneos-arm64.deb
